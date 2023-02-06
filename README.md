@@ -6,7 +6,7 @@ This readme file provides information on the exploratory data analysis of Shark 
 
 The data for this analysis is collected from publicly available sources such as websites and forums. The data consists of information such as the details of the entrepreneurs, their business idea, the sharks who invested in their business, the amount invested, etc.
 
-The EDA will be conducted using various data visualization techniques such as histograms, bar plots, scatter plots, etc. The EDA will also include descriptive statistics to provide a summary of the data.
+The EDA will be conducted using various data visualization techniques such as Pie Charts, bar plots, scatter plots, etc. The EDA will also include descriptive statistics to provide a summary of the data.
 
 The findings of the EDA will be used to identify trends and patterns in the data and make recommendations for future investments based on the insights gained from the data.
 
